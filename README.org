@@ -1,0 +1,7 @@
+#+TITLE: Advent of Code
+#+AUTHOR: Mubarek Seid Juhar
+#+EMAIL: mubareksd@gmail.com
+#+DATA: 2023-04-03
+#+DESCRIPTION: Advent of Code
+#+KEYWORDS: advent of code
+#+LANGUAGE: en
